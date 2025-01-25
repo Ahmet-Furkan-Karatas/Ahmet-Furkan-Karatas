@@ -1,59 +1,55 @@
-# Merhaba 👋 Hoş Geldiniz!
+# Merhaba 👋 GitHub Profilime Hoş Geldiniz!
 
 ---
 
-<p align="center">
-  <img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" alt="Profil Görseli" width="20%">
-</p>
+## 🚀 Hakkımda
+Merhaba, ben Ahmet Furkan Karataş. Teknolojiye meraklı ve yazılım geliştirmeyi seven biriyim. Yeni şeyler öğrenmeyi ve projeler geliştirmeyi çok seviyorum.
 
-<p align="center">
-  <b>Ben Ahmet Furkan Karataş</b>
-</p>
-
-<p align="center">
-  Teknoloji tutkunu, yazılım geliştirici ve sürekli öğrenen bir bireyim.
-</p>
-
----
-
-## 🌟 Hakkımda
-
-- 🔭 **Çalıştıklarım:** Discord botları ve yazılım projeleri
-- 🌱 **Öğrendiğim:** Veri yapıları, algoritmalar ve Python kütüphaneleri
-- 👯 **İşbirliği:** Açık kaynak projeler ve eğitim içerikleri
-- 🤔 **Yardım İhtiyacı:** İleri Python projeleri, web geliştirme
-- 💬 **Sorularınız için:** Discord botları, JSON ve temel yazılım bilgisi
-- ⚡ **Gerçek:** Zor problemleri çözmekten büyük keyif alıyorum!
+- 🔭 Şu anda üzerinde çalıştıklarım: Discord botları ve küçük yazılım projeleri.
+- 🌱 Şu anda öğrendiğim konular: Veri yapıları, algoritmalar ve yeni Python kütüphaneleri.
+- 👯 İş birliği yapmak istediğim alanlar: Açık kaynak projeleri ve eğitim içerikleri.
+- 🤔 Yardım almak istediğim konular: İleri seviye Python projeleri ve web geliştirme.
+- 💬 Bana sorabileceğiniz konular: Discord botları, JSON ve temel yazılım geliştirme bilgileri.
+- 😄 Kendimle ilgili bir detay: Zor problemleri çözmekten büyük keyif alıyorum!
+- ⚡ Eğlenceli bir gerçek: Zor problemleri çözmekten büyük keyif alıyorum!
 
 ---
 
-## 🛠️ Yeteneklerim
+## 🌟 Becerilerim
 
-<div align="center">
-  <img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" alt="Git" width="80" title="Git">&nbsp;&nbsp;
-  <img src="https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png" alt="OOP" width="80" title="Nesne Tabanlı Programlama">&nbsp;&nbsp;
-  <img src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png" alt="JSON" width="80" title="JSON">&nbsp;&nbsp;
-  <img src="https://storage.tally.so/94a97017-e796-4d01-a896-331b522cbaa3/image-2-removebg-preview.png" alt="Discord.py" width="80" title="Discord Bot Yapımı">
-</div>
+### Git
+<img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" width="10%">
 
-### 💡 Açıklamalar
-- **Git:** Kodları düzenli tutmak ve ekip çalışmasını kolaylaştırmak için kullanıyorum.
-- **OOP:** Kodlarımı daha anlaşılır ve modüler yapmak için OOP prensiplerini uyguluyorum.
-- **JSON:** Veri alışverişi ve API entegrasyonlarında sıkça kullanıyorum.
-- **Discord.py:** Eğlenceli ve faydalı botlar geliştiriyorum.
+Kodları düzenlemek ve ekip çalışmasını kolaylaştırmak için Git kullanıyorum.
+
+---
+
+### Nesne Tabanlı Programlama (OOP)
+<img src="https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png" width="10%">
+
+Kod yazarken daha düzenli ve anlaşılır bir yapı için OOP yöntemlerini tercih ediyorum.
+
+---
+
+### JSON
+<img src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png" width="10%">
+
+Veri paylaşımı ve programlar arası iletişimde JSON kullanıyorum.
+
+---
+
+### Discord.py ile Bot Yapımı
+<img src="https://storage.tally.so/94a97017-e796-4d01-a896-331b522cbaa3/image-2-removebg-preview.png" width="10%">
+
+Discord platformu için eğlenceli ve faydalı botlar geliştiriyorum.
 
 ---
 
 ## 📫 Bana Ulaşın
-
-<p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Ahmet-Furkan-Karatas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+- **E-posta:** [your_email@example.com](mailto:your_email@example.com)
+- **LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com)
+- **GitHub:** [GitHub Profilim](https://github.com/Ahmet-Furkan-Karatas)
 
 ---
 
-<p align="center">
-  Ziyaretiniz için teşekkürler! Projelerimi keşfedebilir ve istediğiniz zaman iletişime geçebilirsiniz. 🚀
-</p>
+Ziyaret ettiğiniz için teşekkür ederim! Projelerimi inceleyebilir ve bana ulaşabilirsiniz. 🚀

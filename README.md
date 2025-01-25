@@ -44,10 +44,9 @@ Discord platformu için eğlenceli ve faydalı botlar geliştiriyorum.
 ---
 
 ## 📫 Bana Ulaşın
-- **E-posta:** [your_email@example.com](mailto:ahmet_karatas44@hotmail.com)
-- **LinkedIn:** [LinkedIn Profilim]([https://www.linkedin.com](https://www.linkedin.com/in/ahmet-furkan-karata%C5%9F-81705b285/))
-- **GitHub:** [GitHub Profilim](https://github.com/Ahmet-Furkan-Karatas)
-
+- **E-posta:** [](mailto:ahmet_karatas44@hotmail.com)
+- **LinkedIn:** [](https://www.linkedin.com/in/ahmet-furkan-karata%C5%9F-81705b285/))
+- **Web-Sitem** [](https://karatasahmetfurkan.wordpress.com)
 ---
 
 Ziyaret ettiğiniz için teşekkür ederim! Projelerimi inceleyebilir ve bana ulaşabilirsiniz. 🚀

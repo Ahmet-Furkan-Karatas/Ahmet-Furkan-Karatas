@@ -1,4 +1,4 @@
-#👋 GitHub Profilime Hoş Geldiniz!
+# 👋 GitHub Profilime Hoş Geldiniz!
 
 ---
 
@@ -44,9 +44,9 @@ Discord platformu için eğlenceli ve faydalı botlar geliştiriyorum.
 ---
 
 ## 📫 Bana Ulaşın
-- **E-posta:** [](mailto:ahmet_karatas44@hotmail.com)
-- **LinkedIn:** [](https://www.linkedin.com/in/ahmet-furkan-karata%C5%9F-81705b285/))
-- **Web-Sitem** [](https://karatasahmetfurkan.wordpress.com)
+- **E-posta:** (mailto:ahmet_karatas44@hotmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/ahmet-furkan-karata%C5%9F-81705b285/))
+- **Web-Sitem** (https://karatasahmetfurkan.wordpress.com)
 ---
 
 Ziyaret ettiğiniz için teşekkür ederim! Projelerimi inceleyebilir ve bana ulaşabilirsiniz. 🚀

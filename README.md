@@ -5,13 +5,11 @@
 ## 🚀 Hakkımda
 Merhaba, ben Ahmet Furkan Karataş. Teknolojiye meraklı ve yazılım geliştirmeyi seven biriyim. Yeni şeyler öğrenmeyi ve projeler geliştirmeyi çok seviyorum.
 
-- 🔭 Şu anda üzerinde çalıştıklarım: Discord botları ve küçük yazılım projeleri.
-- 🌱 Şu anda öğrendiğim konular: Veri yapıları, algoritmalar ve yeni Python kütüphaneleri.
-- 👯 İş birliği yapmak istediğim alanlar: Açık kaynak projeleri ve eğitim içerikleri.
-- 🤔 Yardım almak istediğim konular: İleri seviye Python projeleri ve web geliştirme.
-- 💬 Bana sorabileceğiniz konular: Discord botları, JSON ve temel yazılım geliştirme bilgileri.
-- 😄 Kendimle ilgili bir detay: Zor problemleri çözmekten büyük keyif alıyorum!
-- ⚡ Eğlenceli bir gerçek: Zor problemleri çözmekten büyük keyif alıyorum!
+- 🔭 Şu anda üzerinde çalıştıklarım: Discord botları ve python yazılım projeleri.
+- 🌱 Şu anda öğrendiğim konular: JSON'lar, discord botları ve farklı amaçlar için oluşturulmuş python kütüphaneleri.
+- 👯 İş birliği yapmak istediğim alanlar: İş birliği gerektiren çok büyük projeler.
+- 💬 Bana sorabileceğiniz konular: Discord botları, JSON ve orta seviye python yazılım geliştirme bilgileri.
+- 😄 Kendimle ilgili bir detay: Zor problemleri çözmekten büyük keyif alıyorum fakat yapamadığımda bazen çileden çıktığım oluyor! 🤣🤣🤣
 
 ---
 
@@ -20,7 +18,7 @@ Merhaba, ben Ahmet Furkan Karataş. Teknolojiye meraklı ve yazılım geliştirm
 ### Git
 <img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" width="10%">
 
-Kodları düzenlemek ve ekip çalışmasını kolaylaştırmak için Git kullanıyorum.
+Kodları bulutta depılamak ve ekip çalışmasını kolaylaştırmak için Git kullanıyorum.
 
 ---
 
@@ -46,8 +44,8 @@ Discord platformu için eğlenceli ve faydalı botlar geliştiriyorum.
 ---
 
 ## 📫 Bana Ulaşın
-- **E-posta:** [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com)
+- **E-posta:** [your_email@example.com](mailto:ahmet_karatas44@hotmail.com)
+- **LinkedIn:** [LinkedIn Profilim]([https://www.linkedin.com](https://www.linkedin.com/in/ahmet-furkan-karata%C5%9F-81705b285/))
 - **GitHub:** [GitHub Profilim](https://github.com/Ahmet-Furkan-Karatas)
 
 ---

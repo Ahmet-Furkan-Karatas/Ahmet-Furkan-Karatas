@@ -7,7 +7,7 @@ Merhaba, ben Ahmet Furkan Karataş. Teknolojiye meraklı ve yazılım geliştirm
 
 - 🔭 Şu anda üzerinde çalıştıklarım: Discord botları ve python yazılım projeleri.
 - 🌱 Şu anda öğrendiğim konular: JSON'lar, discord botları ve farklı amaçlar için oluşturulmuş python kütüphaneleri.
-- 👯 İş birliği yapmak istediğim alanlar: İş birliği gerektiren çok büyük projeler.
+- 👯 İş birliği yapmak istediğim alanlar: Ekip çalışması gerektiren çok büyük projeler.
 - 💬 Bana sorabileceğiniz konular: Discord botları, JSON ve orta seviye python yazılım geliştirme bilgileri.
 - 😄 Kendimle ilgili bir detay: Zor problemleri çözmekten büyük keyif alıyorum fakat yapamadığımda bazen çileden çıktığım oluyor! 🤣🤣🤣
 

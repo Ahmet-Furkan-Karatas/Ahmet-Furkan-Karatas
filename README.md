@@ -15,6 +15,14 @@ Merhaba, ben Ahmet Furkan Karataş. Teknolojiye meraklı ve yazılım geliştirm
 
 ## 🌟 Becerilerim
 
+
+### Pytest ile Unit Testler
+<img src="https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png" width="10%">
+
+Python için özel olarak geliştirilmiş pytest kütüphanesi ile unit testler yapıyorum.
+
+---
+
 ### Git
 <img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" width="10%">
 
@@ -40,11 +48,6 @@ Veri paylaşımı ve programlar arası iletişimde JSON kullanıyorum.
 <img src="https://storage.tally.so/94a97017-e796-4d01-a896-331b522cbaa3/image-2-removebg-preview.png" width="10%">
 
 Discord platformu için eğlenceli ve faydalı botlar geliştiriyorum.
-
-### Pytest ile Unit Testler
-<img src="https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png" width="10%">
-
-Python için özel olarak geliştirilmiş pytest kütüphanesi ile unit testler yapıyorum.
 
 ---
 

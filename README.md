@@ -41,6 +41,11 @@ Veri paylaşımı ve programlar arası iletişimde JSON kullanıyorum.
 
 Discord platformu için eğlenceli ve faydalı botlar geliştiriyorum.
 
+### Pytest ile Unit Testler
+<img src="https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png" width="10%">
+
+Python için özel olarak geliştirilmiş pytest kütüphanesi ile unit testler yapıyorum.
+
 ---
 
 ## 📫 Bana Ulaşın
